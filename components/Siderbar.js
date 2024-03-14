@@ -9,7 +9,7 @@ const Siderbar = () => {
   return (
     <>
       <Image 
-        width={300} 
+        width={200} 
         height={100} 
         src="/assets/img/logo.svg" 
         alt="imagen logotipo"
